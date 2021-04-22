@@ -15,3 +15,7 @@ function addFriendToSystem(pid, pname, pcountry, pbirthday, pemail){
     friendList.push(newFriend);
 
 }
+
+function getFriendList(){
+    return friendList;
+}
