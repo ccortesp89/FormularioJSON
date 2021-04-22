@@ -9,3 +9,7 @@ function saveFriend(){
 
     addFriendToSystem(sId, sName, sCountry, sBirthdat, sEmail);
 }
+
+function drawFriendsTable(){
+    
+}
